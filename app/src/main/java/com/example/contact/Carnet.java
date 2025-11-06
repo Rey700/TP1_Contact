@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Dictionary;
 
+
 public class Carnet {
     private static Carnet instance; // instance partagÃ©e par toutes les classes (singleton)
     private ArrayList<Contact> contacts;
